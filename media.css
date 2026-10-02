@@ -1,0 +1,7 @@
+@media (max-widt :768) {
+    .obshi {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
